@@ -1,0 +1,19 @@
+{
+  "name": "bingo",
+  "version": "1.0.0",
+  "description": "Bingo!",
+  "main": "main.js",
+  "dependencies": {
+    "cfonts": "^2.8.1",
+    "table": "^5.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bingo!"
+  ],
+  "author": "Juan Casado Ballesteros",
+  "license": "GPL-3.0"
+}
