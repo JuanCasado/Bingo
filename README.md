@@ -11,7 +11,7 @@ It can be extended and customized.
 Use npm or yarn to install the dependencies
 
 ```bash
-node init
+node install
 ```
 
 or
